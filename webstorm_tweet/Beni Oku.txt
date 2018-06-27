@@ -1,0 +1,10 @@
+Projede Angular 6 kullanildi.
+
+Projenin ismi Tweet.
+
+Projeye FireStore isimli bir service ve tweets isimli bir component eklendi.
+
+Model isimli bir folder'in içine tweet isimli bir model dosyasi eklendi.
+
+Proje Webstorm ile gelistirildi.
+
